@@ -13,8 +13,8 @@ module.exports = {
         post: 587,
         secure: false,
         auth: {
-            user: "vietpro.shop28@gmail.com",
-            pass: "rnqqtpbwsivtqopl",
+            user: "ocsen910@gmail.com",
+            pass: "tnuitoietlggijje",
         }
     }
 }
