@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/bin/www"
   },
-  "author": "",
+  "author": "ndl9501 <nduylong9501@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.6",
@@ -26,5 +26,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
-  }
+  },
+  "repository": "https://github.com/ndl9501/Lab.git"
 }
